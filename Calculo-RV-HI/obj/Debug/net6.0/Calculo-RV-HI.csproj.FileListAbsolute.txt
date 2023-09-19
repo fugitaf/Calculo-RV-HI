@@ -1,0 +1,15 @@
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\bin\Debug\net6.0\Calculo-RV-HI.exe
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\bin\Debug\net6.0\Calculo-RV-HI.deps.json
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\bin\Debug\net6.0\Calculo-RV-HI.runtimeconfig.json
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\bin\Debug\net6.0\Calculo-RV-HI.dll
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\bin\Debug\net6.0\Calculo-RV-HI.pdb
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.csproj.AssemblyReference.cache
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.AssemblyInfoInputs.cache
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.AssemblyInfo.cs
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.csproj.CoreCompileInputs.cache
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.dll
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\refint\Calculo-RV-HI.dll
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.pdb
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\Calculo-RV-HI.genruntimeconfig.cache
+C:\Users\fefug_skli85i\source\repos\Calculo-RV-HI\Calculo-RV-HI\obj\Debug\net6.0\ref\Calculo-RV-HI.dll
