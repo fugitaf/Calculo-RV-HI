@@ -13,16 +13,19 @@ namespace Calculo_RV_HI.Entities
 
         public decimal CotacaoAplicacaoAjustada()
         {
+            decimal cotacaoAplicacaoAjustada = 0.0m;
             int anoDoCertificado = int.Parse(DataCotizacao.Substring(6));
 
-            if (anoDoCertificado <= 1994)
+            if (anoDoCertificado > 1994)
             {
-                return Utils.Utils.TruncarValor(CotacaoUltimaTributacao / valorUfirAplicacao * 0.6767m);
+                cotacaoAplicacaoAjustada = CotacaoUltimaTributacao;
             }
             else
             {
-                return CotacaoUltimaTributacao;
+                cotacaoAplicacaoAjustada = Utils.Utils.TruncarValor(CotacaoUltimaTributacao / valorUfirAplicacao * 0.6767m);
             }
+
+            return cotacaoAplicacaoAjustada;
         }
     }
 }
