@@ -22,7 +22,8 @@ namespace Calculo_RV_HI.Entities
             }
             else
             {
-                cotacaoAplicacaoAjustada = Utils.Utils.TruncarValor(CotacaoUltimaTributacao / valorUfirAplicacao * 0.6767m);
+                cotacaoAplicacaoAjustada = Utils.Utils.TruncarValor(CotacaoUltimaTributacao / valorUfirAplicacao, 7);
+                cotacaoAplicacaoAjustada = Utils.Utils.TruncarValor(cotacaoAplicacaoAjustada * 0.6767m, 7);
             }
 
             return cotacaoAplicacaoAjustada;
